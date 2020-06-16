@@ -1,0 +1,65 @@
+body{
+  background-color:pink;
+  font-family: sans-serif;
+}
+header{
+text-align: center;
+font-family: sans-serif;
+margin: 50px;
+font-size: 50px;`
+}
+
+.photo{
+  border:3px solid greenyellow;
+  width: 300px;
+  margin: 10px;
+  margin-left: 42%;
+  border-radius: 40px;
+}
+.photocenter{
+  border:3px solid greenyellow;
+  width: 470px;
+  margin: 10px;
+  border-radius: 40px;
+}
+.center{
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+}
+  
+p{
+font-size: 17px;
+font-family: cursive;
+font-weight: normal;
+}
+li{
+margin:3px;
+border:3px solid blue;
+border-radius: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 22px;
+font-weight: bold;
+padding: 25px 25px 20px;
+}
+.section{
+  margin:3px;
+  border:3px solid blue;
+  border-radius: 30px;
+  font-size: 22px;
+  padding: 25px 25px 20px;
+  }
+}
+.strelka{
+  width: 30px;
+  margin-left: 50px;
+  border:2px solid greenyellow;
+  border-radius: 50%;
+}
+.conec{
+  text-align: center;
+  font-family: cursive;
+  border:3px solid greenyellow;
+  border-radius: 40px;
+  padding: 25px 25px 20px;
+}
